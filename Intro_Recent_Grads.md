@@ -24,4 +24,4 @@
 
 ## Data Sorces:
 
-1.1. fivethirtyeight - https://github.com/fivethirtyeight/data/tree/master/college-majors
+1. fivethirtyeight - https://github.com/fivethirtyeight/data/tree/master/college-majors
